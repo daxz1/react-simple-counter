@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-simple-counter/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/react-simple-counter/static/js/main.c37dc4a4.chunk.js",
+    "main.js.map": "/react-simple-counter/static/js/main.c37dc4a4.chunk.js.map",
+    "runtime-main.js": "/react-simple-counter/static/js/runtime-main.d57a1b63.js",
+    "runtime-main.js.map": "/react-simple-counter/static/js/runtime-main.d57a1b63.js.map",
+    "static/js/2.0316088b.chunk.js": "/react-simple-counter/static/js/2.0316088b.chunk.js",
+    "static/js/2.0316088b.chunk.js.map": "/react-simple-counter/static/js/2.0316088b.chunk.js.map",
+    "static/js/3.65cf945e.chunk.js": "/react-simple-counter/static/js/3.65cf945e.chunk.js",
+    "static/js/3.65cf945e.chunk.js.map": "/react-simple-counter/static/js/3.65cf945e.chunk.js.map",
+    "index.html": "/react-simple-counter/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/react-simple-counter/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.0316088b.chunk.js.LICENSE.txt": "/react-simple-counter/static/js/2.0316088b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/react-simple-counter/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d57a1b63.js",
+    "static/js/2.0316088b.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.c37dc4a4.chunk.js"
+  ]
+}
