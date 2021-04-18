@@ -3,7 +3,7 @@ import Button from '@material-ui/core/Button';
 import Grid from '@material-ui/core/Grid';
 import Typography from "@material-ui/core/Typography/Typography";
 
-const App:React.FC = () => {
+export const App:React.FC = () => {
   const [count, setCount] = useState<number>(0);
   const increment = () => setCount(prevState => prevState + 1);
   const decrement = () => setCount(prevState => prevState - 1);
@@ -16,7 +16,7 @@ const App:React.FC = () => {
         justify={"center"}
     >
         <Grid item xs={12}>
-            <Typography variant="h1">Simple React Counter</Typography>
+            <Typography variant="h2">Simple React Counter</Typography>
         </Grid>
         <Grid item xs={12}>
             <Button variant="contained" color="primary" onClick={increment}>
@@ -31,4 +31,3 @@ const App:React.FC = () => {
   );
 };
 
-export default App;
