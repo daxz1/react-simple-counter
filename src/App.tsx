@@ -19,6 +19,13 @@ export const App:React.FC = () => {
             <Typography variant="h2">Simple React Counter</Typography>
         </Grid>
         <Grid item xs={12}>
+            <Typography variant="body2">
+                A simple example of using {' '}
+                <a href={'https://reactjs.org/docs/hooks-intro.html'} target='_blank'>React.Hooks</a> to store local state.
+                Source Code can be found <a href={'https://github.com/daxz1/react-simple-counter'} target="_blank">here</a>.
+            </Typography>
+        </Grid>
+        <Grid item xs={12}>
             <Button variant="contained" color="primary" onClick={increment}>
                 +
             </Button>
