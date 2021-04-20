@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/react-simple-counter/static/js/main.84a2157e.chunk.js",
-    "main.js.map": "/react-simple-counter/static/js/main.84a2157e.chunk.js.map",
+    "main.js": "/react-simple-counter/static/js/main.fe523b55.chunk.js",
+    "main.js.map": "/react-simple-counter/static/js/main.fe523b55.chunk.js.map",
     "runtime-main.js": "/react-simple-counter/static/js/runtime-main.a67ba65b.js",
     "runtime-main.js.map": "/react-simple-counter/static/js/runtime-main.a67ba65b.js.map",
-    "static/js/2.a9cc0c1e.chunk.js": "/react-simple-counter/static/js/2.a9cc0c1e.chunk.js",
-    "static/js/2.a9cc0c1e.chunk.js.map": "/react-simple-counter/static/js/2.a9cc0c1e.chunk.js.map",
+    "static/js/2.f78bb467.chunk.js": "/react-simple-counter/static/js/2.f78bb467.chunk.js",
+    "static/js/2.f78bb467.chunk.js.map": "/react-simple-counter/static/js/2.f78bb467.chunk.js.map",
     "index.html": "/react-simple-counter/index.html",
-    "static/js/2.a9cc0c1e.chunk.js.LICENSE.txt": "/react-simple-counter/static/js/2.a9cc0c1e.chunk.js.LICENSE.txt"
+    "static/js/2.f78bb467.chunk.js.LICENSE.txt": "/react-simple-counter/static/js/2.f78bb467.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a67ba65b.js",
-    "static/js/2.a9cc0c1e.chunk.js",
-    "static/js/main.84a2157e.chunk.js"
+    "static/js/2.f78bb467.chunk.js",
+    "static/js/main.fe523b55.chunk.js"
   ]
 }
