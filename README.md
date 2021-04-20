@@ -1,4 +1,4 @@
-###### React Simple Counter
+### React Simple Counter
 
 This repository demonstrates using React.Hooks and testing a simple React based app.
 
