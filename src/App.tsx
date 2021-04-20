@@ -27,11 +27,13 @@ export const App:React.FC = () => {
         </Grid>
         <Grid item xs={12}>
             <Button variant="contained" color="primary" onClick={increment}>
-                +
+                <span data-testid='increment'>+</span>
             </Button>
-            <Typography align={"center"}>{count}</Typography>
+            <Typography align={"center"}>
+                <span data-testid='counter'>{count}</span>
+            </Typography>
             <Button variant="contained" color="primary" onClick={decrement}>
-                -
+                <span data-testid='decrement'>-</span>
             </Button>
         </Grid>
     </Grid>
