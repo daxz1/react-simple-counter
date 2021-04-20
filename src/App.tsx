@@ -21,8 +21,8 @@ export const App:React.FC = () => {
         <Grid item xs={12}>
             <Typography variant="body2">
                 A simple example of using {' '}
-                <a href={'https://reactjs.org/docs/hooks-intro.html'} target='_blank'>React.Hooks</a> to store local state.
-                Source Code can be found <a href={'https://github.com/daxz1/react-simple-counter'} target="_blank">here</a>.
+                <a href={'https://reactjs.org/docs/hooks-intro.html'} target='_blank' rel='noreferrer'>React.Hooks</a> to store local state.
+                Source Code can be found <a href={'https://github.com/daxz1/react-simple-counter'} target="_blank" rel='noreferrer'>here</a>.
             </Typography>
         </Grid>
         <Grid item xs={12}>
